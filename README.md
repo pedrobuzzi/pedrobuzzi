@@ -5,7 +5,7 @@
 - 🔭. I’m currently focused on the needs of TOTVS Carol Assistant, a platform to visually build, train and deploy chatbots, powered by Carol.
 - 💻. Python and JavaScript developer.
 - ⛓️. Serverless and Microservices.
-- 🌱`  Learning Dart and Flutter 💙📱
+- 📱. Flutter 💙
 
 <p align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrobuzzi&count_private=true&show_icons=true&hide_border=true&hide=stars" />
