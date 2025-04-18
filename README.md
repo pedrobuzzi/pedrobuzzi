@@ -3,9 +3,9 @@
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile
 
 - 🔭. I’m currently focused on the needs of TOTVS Carol
-- 💻. Python and TypeScript developer
+- 💻. Python developer
 - ⛓️. Serverless and Microservices (AWS and GCP)
-- 📱. Flutter 💙
+- 📱. Flutter for mobile apps 💙
 
 <p align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrobuzzi&count_private=true&show_icons=true&hide_border=true&hide=stars" />
